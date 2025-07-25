@@ -12,11 +12,11 @@ This is a Power BI project to analyze e-commerce sales data and get insights on 
 - Built an interactive dashboard with filters, slicers, and drill-downs
 - Used different types of charts and maps for better understanding
 
-## 📈 Key Features
-- KPIs: Sales, Profit, Quantity, AOV
-- Filters: Quarter, State, Payment, Customer
-- Visuals: Bar, Pie, Donut, Line, Area, Map
-- Drill-down: Category → Sub-Category
+📈 Key Features  
+KPIs: Sales, Profit, Quantity, AOV  
+Filters: Quarter, State, Payment, Customer  
+Visuals: Donut, Clustered Bar, Column  
+Drill-down: Category → Sub-Category
 
 ## 🚀 Tools Used
 - Power BI  
